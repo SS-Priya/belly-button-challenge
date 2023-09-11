@@ -1,4 +1,5 @@
 # belly-button-challenge
+
 Module-14 (belly-button-challenge)
 
 Belly Button Biodiversity Dashboard :
@@ -26,8 +27,8 @@ This dashboard is deployed on GitHub Pages.
 
 Built With :
 
-JavaScript
-D3.js
-Plotly.js
+JavaScript,
+D3.js,
+Plotly.js,
 HTML
 
