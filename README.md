@@ -4,7 +4,7 @@ Module-14 (belly-button-challenge)
 
 Belly Button Biodiversity Dashboard :
 
-An interactive web-based dashboard to explore and visualize the Belly Button Biodiversity dataset, which catalogs the microbes found in human navels.
+An interactive web-based dashboard to explore and visualize the Belly Button Biodiversity dataset.
 
 Background : 
 
