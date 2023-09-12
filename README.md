@@ -2,7 +2,11 @@
 
 Module-14 (belly-button-challenge)
 
-Belly Button Biodiversity Dashboard :
+Belly Button Biodiversity Dashboard URL :
+
+https://ss-priya.github.io/belly-button-challenge/
+
+Objective :
 
 An interactive web-based dashboard to explore and visualize the Belly Button Biodiversity dataset.
 
